@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ThueMorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiscreteDistribution.class" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDistribution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThueMorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/ThueMorse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +94,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Birthday.executor": "Debug",
     "Application.DiscreteDistribution.executor": "Debug",
     "Application.ThueMorse.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -101,7 +102,8 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Rosas/Documents/LenovoRay/WebDev/PrincetonUniversity/arrays"
+    "last_opened_file_path": "C:/Users/Rosas/Documents/LenovoRay/WebDev/PrincetonUniversity/arrays",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
