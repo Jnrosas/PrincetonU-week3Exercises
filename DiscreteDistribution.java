@@ -24,7 +24,8 @@ public class DiscreteDistribution {
         for (int i = 0; i < m; i++) {
             int r = (int) (Math.random() * sum);
             for (int j = 1; j < args.length; j++) {
-                if (r < (accum += Integer.parseInt(args[j]))) {
+                accum += Integer.parseInt(args[j]);
+                if (r < accum) {
                     System.out.print(j + " ");
                     break;
                 }

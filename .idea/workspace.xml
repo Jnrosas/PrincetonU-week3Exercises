@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minesweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday.class" beforeDir="false" afterPath="$PROJECT_DIR$/Birthday.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/Birthday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscreteDistribution.class" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDistribution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscreteDistribution.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDistribution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ThueMorse.class" beforeDir="false" afterPath="$PROJECT_DIR$/ThueMorse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThueMorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThueMorse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,16 +101,31 @@
   "keyToString": {
     "Application.Birthday.executor": "Debug",
     "Application.DiscreteDistribution.executor": "Debug",
+    "Application.Minesweeper.executor": "Debug",
     "Application.ThueMorse.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Rosas/Documents/LenovoRay/WebDev/PrincetonUniversity/arrays",
+    "last_opened_file_path": "C:/Users/Rosas/Documents/LenovoRay/WebDev/OracleONE/Backend/Spring/screenmatch",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ThueMorse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThueMorse" />
+      <module name="Computer Science" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThueMorse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
